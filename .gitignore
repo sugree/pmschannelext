@@ -1,0 +1,7 @@
+*.class
+.project
+.classpath
+.settings
+target
+debug.log
+channel.log
